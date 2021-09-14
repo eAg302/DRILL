@@ -43,4 +43,3 @@ turtle.onkey(drunken_move_s, 's')
 turtle.onkey(drunken_move_d, 'd')
 
 turtle.onkey(restart, 'Escape')
-turtle.listen()
